@@ -1,0 +1,5 @@
+<% 
+
+response.sendRedirect("inicio.xhtml"); 
+
+%>
